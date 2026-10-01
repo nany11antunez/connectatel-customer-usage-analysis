@@ -11,7 +11,7 @@ The analysis can be viewed directly on GitHub or run in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CBKKHxdg1Vsm9XLmDuXlDrfwCcuKr4wr?usp=sharing)
 
-`S7_Version_Estudiante_Project_ConnectaTel.ipynb` → Main notebook containing data cleaning, exploratory data analysis (EDA), distributions, visualisations, segmentation by usage groups, and strategic conclusions.
+`connectatel-customer-usage-analysis.ipynb` → Main notebook containing data cleaning, exploratory data analysis (EDA), distributions, visualisations, segmentation by usage groups, and strategic conclusions.
 
 ## 🧠 Analysis Objective
 The objective of the analysis was to understand how customers use mobile services and identify patterns that may be relevant for segmentation and commercial strategy.
