@@ -9,8 +9,6 @@ The project integrates three data sources — customers, plans, and usage record
 ## 📂 Repository Contents
 The analysis can be viewed directly on GitHub or run in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xlrJtkAbQb3p7mpNjS1Y81In7Hf49mKY#scrollTo=9b5d5eca)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xlrJtkAbQb3p7mpNjS1Y81In7Hf49mKY?usp=sharing)
 
 `connectatel-customer-usage-analysis.ipynb` → Main notebook containing data cleaning, exploratory data analysis (EDA), distributions, visualisations, segmentation by usage groups, and strategic conclusions.
