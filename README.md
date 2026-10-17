@@ -64,8 +64,7 @@ The analysis provides a basis for identifying potential commercial opportunities
 
 - Plan optimisation: Comparing usage patterns across Basic and Premium customers could help identify potential mismatches between customer needs and plan features, supporting further evaluation of the commercial offering.
 
-These findings can help guide further investigation and commercial decisions. Additional analysis would be needed to validate specific strategies and assess their potential impact.
-
+These findings can help guide further investigation and commercial decisions.
 ## 🛠️ Tools
 - Python
 - Pandas
