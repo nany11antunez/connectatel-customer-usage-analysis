@@ -56,6 +56,16 @@ The analysis provides a basis for:
 - Evaluating whether existing plans align with actual customer usage.
 - Supporting future commercial decisions based on customer behaviour.
 
+## Business Insights
+
+The analysis provides a basis for identifying potential commercial opportunities:
+
+- Customer retention: The Low Usage segment represents approximately 19.5% of the analysed customer base. This group could be investigated further to determine whether low usage is associated with customer churn and whether targeted retention strategies may be appropriate.
+
+- Plan optimisation: Comparing usage patterns across Basic and Premium customers could help identify potential mismatches between customer needs and plan features, supporting further evaluation of the commercial offering.
+
+These findings can help guide further investigation and commercial decisions. Additional analysis would be needed to validate specific strategies and assess their potential impact.
+
 ## 🛠️ Tools
 - Python
 - Pandas
